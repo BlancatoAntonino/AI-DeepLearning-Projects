@@ -4,7 +4,7 @@ Progetti realizzati per il corso di *Sistemas Inteligentes – Inteligencia Arti
 Universidad Nacional de Córdoba (UNC), 2025
 
 Questo repository raccoglie una serie di notebook dedicati allo studio e alla sperimentazione di modelli di Machine Learning e Deep Learning.  
-Gli esercizi sono stati sviluppati nell’ambito del corso dell’UNC e includono classificazione supervisionata, reti neurali per immagini, autoencoder e tecniche base di NLP.
+Gli esercizi sono stati sviluppati nell’ambito del corso dell’Universidad Nacional de Còrdoba (Argentina) e includono classificazione supervisionata, reti neurali per immagini e autoencoder.
 
 L’obiettivo del lavoro è applicare diversi modelli neurali a dataset reali, comprenderne il comportamento, confrontarne il rendimento e costruire pipeline complete:  
 preprocessing → training → valutazione → analisi dei risultati.
@@ -60,7 +60,7 @@ Questi progetti sono stati sviluppati con l’obiettivo di:
 
 ## 👤 Autore
 **Antonino Blancato**  
-Studente di Ingeniería Informática – Universidad Nacional de Córdoba  
+Studente di Ingeniería Informática – Universidad Nacional de Córdoba (Argentina) 
 (Programma di scambio internazionale del Politecnico di Torino)
 
 ---
